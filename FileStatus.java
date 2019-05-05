@@ -1,4 +1,4 @@
-public IOException()
+import java.io.IOException;
 
 public class FileStatus {
     public static void main(String[] argv) throws IOException {
