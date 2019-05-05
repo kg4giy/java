@@ -1,6 +1,10 @@
+//import required packages
+
 import java.io.IOException;
 import java.io.File;
 import java.util.Date;
+
+//Main applicaiton class
 
 public class FileStatus {
     public static void main(String[] argv) throws IOException {
