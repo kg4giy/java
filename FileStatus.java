@@ -1,6 +1,6 @@
 import java.io.IOException;
 import java.io.File;
-import java.io.Date;
+import java.util.Date;
 
 public class FileStatus {
     public static void main(String[] argv) throws IOException {
